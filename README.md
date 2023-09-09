@@ -1,4 +1,4 @@
-<img src="[https://capsule-render.vercel.app/api?type=waving](https://capsule-render.vercel.app/api?type=Cylinder)&color=auto&height=200&section=header&text=Ain%20Github!&fontSize=90" />
+<img src="[https://capsule-render.vercel.app/api?type=Cylinder]&color=auto&height=200&section=header&text=Ain%20Github!&fontSize=90" />
 
 
 <p> #Tech stack </p>
