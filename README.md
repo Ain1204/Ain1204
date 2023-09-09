@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ain%20Github!&fontSize=90" />
 
 
-#Tech stack 
+<p> #Tech stack </p>
 <img href="https://ain-blog.tistory.com/" src="https://img.shields.io/badge/ain-blog.tistory.com-000000?style=flat&logo=tistory&logoColor=white"/>
 
 
