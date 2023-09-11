@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=_custom_gradient=100:FFFFFF,100:FFFFFF&height=200&section=header&text=Ain%20Github&fontSize=90" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=FF99CC&height=200&section=header&text=Ain%20Github&fontColor=FFFFFF&fontSize=90&theme=radicala" />
+</div>
 
 <div align="center">
 🛠Tech Stack🛠
@@ -15,11 +17,11 @@
 </div></br>
 
 <div align="center">
-  <a href="https://ain-blog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <a href="https://ain-blog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF99CC?style=flat-square&logo=tistory&logoColor=white"/></a>
 </div></br>
 <div align="center">
   👆 Click the badge‼️
 </div></br>
 
-![Ain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ain1204&show_icons=true&theme=radical)
+![Ain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ain1204&theme=calm&show_icons=true)
 
