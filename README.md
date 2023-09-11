@@ -18,6 +18,8 @@
 
 <div align="center">
   <a href="https://ain-blog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF99CC?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <a href="https://sepia-trillium-42c.notion.site/ERICA-Web-1b2b3ea45043412b9ac0a76bd11a3201?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  
 </div></br>
 <div align="center">
   👆 Click the badge‼️
