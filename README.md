@@ -17,9 +17,9 @@
 <div align="center">
   <a href="https://ain-blog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </div></br>
-<div>
+<div align="center">
   👆 Click the badge‼️
-</div>
+</div></br>
 
 ![Ain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ain1204&show_icons=true&theme=radical)
 
